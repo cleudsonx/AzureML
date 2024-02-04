@@ -1,4 +1,4 @@
 # AzureML
-Trabalhando com Machine Learning no Azure Machine Learning
+Trabalhando com Machine Learning no Azure Machine Learning:
 
-DOCUMENTAÇÃO EM FASE DE ELABORAÇÃO...
+Documentação em fase elaboração sobre a criação de um modelo de previsão de Aluguel de Bicicletas.
